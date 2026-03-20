@@ -18,7 +18,6 @@ Igor Shevchenko
 1. Open Blender.
 2. Go to `Edit > Preferences > Themes`.
 3. Install or copy the theme files into your Blender themes directory.
-4. Select `PS1 Classic`.
 
 ## Notes
 
