@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "psx_theme"
+version = "2.0.2"
+name = "PS1 Classic"
+tagline = "Retro PlayStation 1 inspired Blender theme"
+maintainer = "Igor Shevchenko"
+type = "theme"
+tags = ["Light", "Retro", "PlayStation"]
+blender_version_min = "5.0.0"
+blender_version_max = "5.1.0"
+license = [
+  "SPDX:GPL-2.0-or-later",
+]
